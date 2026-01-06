@@ -1,0 +1,1 @@
+Production ready scaffold. Connect MongoDB Atlas, deploy to Render & Vercel.
